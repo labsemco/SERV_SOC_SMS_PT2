@@ -1,0 +1,14 @@
+numpy
+pandas
+spacy
+collections
+sklearn
+pickle
+matplotlib
+gensim
+operator
+math
+warnings
+keras
+tensorflow
+logging
